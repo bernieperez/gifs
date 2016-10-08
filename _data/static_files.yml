@@ -3578,6 +3578,14 @@
   - end
   - gif
   - oncall
+- title: oncall-fixing.gif
+  category: oncall
+  path: oncall/oncall-fixing.gif
+  modified_time: 1475886129
+  tags:
+  - fixing
+  - gif
+  - oncall
 - title: oncall-handoff.gif
   category: oncall
   path: oncall/oncall-handoff.gif
