@@ -3518,6 +3518,60 @@
   - gif
   - omg
   - ooooo
+- title: going-on-call.gif
+  category: oncall
+  path: oncall/going-on-call.gif
+  modified_time: 1475885915
+  tags:
+  - call
+  - gif
+  - going
+  - 'on'
+  - oncall
+- title: midnight-oncall-page.gif
+  category: oncall
+  path: oncall/midnight-oncall-page.gif
+  modified_time: 1475885925
+  tags:
+  - gif
+  - midnight
+  - oncall
+  - page
+- title: on-call-going-out.gif
+  category: oncall
+  path: oncall/on-call-going-out.gif
+  modified_time: 1475885899
+  tags:
+  - call
+  - gif
+  - going
+  - 'on'
+  - oncall
+  - out
+- title: oncall-end.gif
+  category: oncall
+  path: oncall/oncall-end.gif
+  modified_time: 1475885947
+  tags:
+  - end
+  - gif
+  - oncall
+- title: oncall-handoff.gif
+  category: oncall
+  path: oncall/oncall-handoff.gif
+  modified_time: 1475885752
+  tags:
+  - gif
+  - handoff
+  - oncall
+- title: oncall-starts.gif
+  category: oncall
+  path: oncall/oncall-starts.gif
+  modified_time: 1475885936
+  tags:
+  - gif
+  - oncall
+  - starts
 - title: gazelle-popcorn.gif
   category: popcorn
   path: popcorn/gazelle-popcorn.gif
