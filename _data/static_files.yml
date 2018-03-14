@@ -3647,6 +3647,14 @@
   - 'on'
   - oncall
   - out
+- title: oncall-easy.gif
+  category: oncall
+  path: oncall/oncall-easy.gif
+  modified_time: 1519419136
+  tags:
+  - easy
+  - gif
+  - oncall
 - title: oncall-end.gif
   category: oncall
   path: oncall/oncall-end.gif
@@ -3698,6 +3706,15 @@
   - it
   - oncall
   - so
+- title: dog-science.jpg
+  category: oncall
+  path: oncall/dog-science.jpg
+  modified_time: 1521061832
+  tags:
+  - dog
+  - jpg
+  - oncall
+  - science
 - title: good_catch.jpg
   category: oncall
   path: oncall/good_catch.jpg
