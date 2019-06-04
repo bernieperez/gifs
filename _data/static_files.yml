@@ -1501,6 +1501,14 @@
   - dog
   - gif
   - walking
+- title: dogscience.jpg
+  category: dog
+  path: dog/dogscience.jpg
+  modified_time: 1559597273
+  tags:
+  - dog
+  - dogscience
+  - jpg
 - title: really-hahaha-no.gif
   category: 'no'
   path: no/really-hahaha-no.gif
