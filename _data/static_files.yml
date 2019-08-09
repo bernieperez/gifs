@@ -461,6 +461,16 @@
   - hashtag
   - neil
   - patrick
+- title: so-damn-hot.gif
+  category: burn
+  path: burn/so-damn-hot.gif
+  modified_time: 1562970765
+  tags:
+  - burn
+  - damn
+  - gif
+  - hot
+  - so
 - title: picard-oooh.gif
   category: burn
   path: burn/picard-oooh.gif
@@ -4827,6 +4837,15 @@
   - confused
   - gif
   - travolta
+- title: but_why.gif
+  category: confused
+  path: confused/but_why.gif
+  modified_time: 1565385678
+  tags:
+  - but
+  - confused
+  - gif
+  - why
 - title: disgust.gif
   category: disgust
   path: disgust/disgust.gif
