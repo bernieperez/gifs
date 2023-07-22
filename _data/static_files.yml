@@ -1205,6 +1205,14 @@
   tags:
   - gif
   - papabear
+- title: bernie.jpg
+  category: papabear
+  path: papabear/bernie.jpg
+  modified_time: 1690056455
+  tags:
+  - bernie
+  - jpg
+  - papabear
 - title: deal-with-it.gif
   category: deal-with-it
   path: deal-with-it/deal-with-it.gif
